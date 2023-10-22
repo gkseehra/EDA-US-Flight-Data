@@ -2,7 +2,7 @@
 
 ## Project structure
 The project contains 3 main sections:
-- Exploratory Data Analysis (1_EDA.ipynb)
+- Exploratory data analysis and data pre-processing (1_EDA.ipynb)
 - Comparision of performance of different models (2_TrainAndTest.ipynb)
 - A flask app that uses the pickled file of the best performing model to predict flight delay possibility. (FlaskApp)
 
