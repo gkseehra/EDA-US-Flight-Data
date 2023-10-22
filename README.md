@@ -17,8 +17,8 @@ The project contains 3 main sections:
 
 ## Screenshots
 
-![](../../../Desktop/ss_fdp_1.png)
+<img width="700" alt="ss_fdp_1" src="https://github.com/gkseehra/Flight-Delay-Prediction/assets/35463826/47575f92-68fb-4a76-a878-c23b2c8a10d8">
 
-![](../../../Desktop/ss_fdp_2.png)
+<img width="700" alt="ss_fdp_2" src="https://github.com/gkseehra/Flight-Delay-Prediction/assets/35463826/6d8f8b96-1ce7-4145-b945-b8b702ea8e0b">
 
-![](../../../Desktop/ss_fdp_3.png)
+<img width="700" alt="ss_fdp_3" src="https://github.com/gkseehra/Flight-Delay-Prediction/assets/35463826/bd9aa08d-527a-44fe-9ad0-2282f6ae6067">
